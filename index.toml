@@ -124,21 +124,6 @@ hash = "f0b4372343e873512d57e5ee877f37362f8dde8e75771075abe44686509294b9"
 metafile = true
 
 [[files]]
-file = "mods/enchancement-forge-fix.pw.toml"
-hash = "7151f916357dcbee989f9ad075057b7181643d41e7f59ef545cc3f4319427bc0"
-metafile = true
-
-[[files]]
-file = "mods/enchancement.pw.toml"
-hash = "54ed85b42559773c1d59f774b7d1e17938232b97432b20469ead70d69673b6ab"
-metafile = true
-
-[[files]]
-file = "mods/enchantment-disable-tag.pw.toml"
-hash = "8d986c871e8d6866e884b6e2855252abf7b4301904c143c2810912609f9ff5a5"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "3b5b7d833a2dd0a0064371036ab1da338cbbf82fb42d84dc8078dc9f48a3b63c"
 metafile = true

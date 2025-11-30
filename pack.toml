@@ -1,12 +1,12 @@
 name = "Spooky Charm"
 author = "kodiitulip"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d987af97f9197c313133c60bb947d8160b26bedf3d838584905046598302ef64"
+hash = "bfb623984cdaf193d117989f5a5d16facd71ce66e1409b1dd3fef0b52c780a65"
 
 [versions]
 forge = "47.4.12"
