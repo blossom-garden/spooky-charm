@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "b8d6507f93c414df3eefcae7b72e77b0034290d059242f8a01c80cfb14c5b882"
-
-[[files]]
-file = "icon.png"
-hash = "8d4d6cb29533676487f8130ec8df6615ee90bdb6b5121037562a93c8d487e284"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "4fb7aa571d469a6ee7e359ab9d018c90236575c2f55b1fa1cfbfdd0cccf41ae8"
 metafile = true
@@ -567,6 +559,10 @@ metafile = true
 file = "resourcepacks/tras-fresh-player.pw.toml"
 hash = "a2281fdf9db2f273f97a5c17d0179e8e104372ba0539ff50145e9fba28c3dc69"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "431826085d21136e5c67cf77ef5ae4164cf35d5b03d5ae9d9a67f348e470302d"
 
 [[files]]
 file = "shaderpacks/2ks.pw.toml"
