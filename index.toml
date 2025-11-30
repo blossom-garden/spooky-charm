@@ -1,13 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/release.yml"
-hash = "c050b20c1bd26fea7f2d1f19007dfc678d894331243d8b3e91586cf9e0a3e42c"
+file = "README.md"
+hash = "b8d6507f93c414df3eefcae7b72e77b0034290d059242f8a01c80cfb14c5b882"
 
 [[files]]
-file = "icon.pw.toml"
-hash = "e307635172d2cc5c3fa54f7cfddb4166d9421cbfa69b102171f8f950d43e98a5"
-metafile = true
+file = "icon.png"
+hash = "8d4d6cb29533676487f8130ec8df6615ee90bdb6b5121037562a93c8d487e284"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -582,9 +581,4 @@ metafile = true
 [[files]]
 file = "resourcepacks/tras-fresh-player.pw.toml"
 hash = "a2281fdf9db2f273f97a5c17d0179e8e104372ba0539ff50145e9fba28c3dc69"
-metafile = true
-
-[[files]]
-file = "server-icon.pw.toml"
-hash = "720c9a7fc82bd65d1fd15c5ff1c7655b8ad734ff41d1c4f7b86b162930c6a838"
 metafile = true
