@@ -19,6 +19,16 @@ hash = "cb06af41fe6ce14cef5b0f92f3f7c8e61eb53f0529cee0f67cd88c50e9424f83"
 metafile = true
 
 [[files]]
+file = "mods/alexs-mobs-naturalist-compat.pw.toml"
+hash = "4582e0baac124b6ed5fa7117667b4e96bc9c1543763fa0235526bce6fcdc5181"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "da732b5c94d44c8d880ac7b00c2ee49c6674a145b2e620e646ec5eb3a564bd02"
 metafile = true
@@ -56,16 +66,6 @@ metafile = true
 [[files]]
 file = "mods/cluttered.pw.toml"
 hash = "4ae3ce4646699d18f72e70465d66dff8f5926576874f80d0fca6a70033c27ca9"
-metafile = true
-
-[[files]]
-file = "mods/connector-extras.pw.toml"
-hash = "d8480ee1f6ae58fa389e502108bcde4936ca326d6dc2f1608b9af9ac141cb35a"
-metafile = true
-
-[[files]]
-file = "mods/connector.pw.toml"
-hash = "4d5ba0ec7ea7abf0ef76f3f08853bd7c886eec95b1795cbeacaba8bc608e2913"
 metafile = true
 
 [[files]]
@@ -144,11 +144,6 @@ hash = "c995fb23f73672967c9f9ee906fd36e12491180e61c978bfeae3eba4d87c8517"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "2a2f2168bf03bfa3034ad9583588676c5d66b6f7c767df9fe259ab55350792d2"
-metafile = true
-
-[[files]]
 file = "mods/from-the-cave.pw.toml"
 hash = "a6c1a3e2ba9734205d6ca58e94d39f7f7e4fb630c352a1ebed29b5c23a366bc0"
 metafile = true
@@ -179,8 +174,8 @@ hash = "0fbcc8cf03336e6bed425e2115fc4ff1a3a05be5c655228b305e70380eb08b57"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-addon-compat.pw.toml"
-hash = "62b4b429775b5226241b728e76ca2875f6eb01c0dfdfb2eee9447191452bd0c1"
+file = "mods/labels.pw.toml"
+hash = "7923eace31678f02b226afaff1840bca064c0fc8d3194e422a79783ebdb9ffbf"
 metafile = true
 
 [[files]]
@@ -201,11 +196,6 @@ metafile = true
 [[files]]
 file = "mods/lets-do-beachparty.pw.toml"
 hash = "d78e971517d18ba6628d707e5a4a379e68499893ce17e92e490e945b3c60e115"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-bloomingnature.pw.toml"
-hash = "4ee14fa7c3443a84ef418f4cfcb92844ec37761adf9d59a7e71eda377bf90e5a"
 metafile = true
 
 [[files]]
@@ -244,11 +234,6 @@ hash = "b720172434e663a1e7d87e0b3b14c0fcbd0032bb14b4ed1885f5c4b32614994f"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-lilis-lucky-lures.pw.toml"
-hash = "0d6eafc42049c16833dea754706484d2d9c3387ef3430dae4ce2ebeb9d39adcb"
-metafile = true
-
-[[files]]
 file = "mods/lets-do-meadow.pw.toml"
 hash = "901dc04b960669a18e321a730891c0334efc0a6b0470593b671ce3874eaf8d1f"
 metafile = true
@@ -261,11 +246,6 @@ metafile = true
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "94255c24694569e26337079e3ff81165b4e914ab427d4dab0e1d78b65325ba9f"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-wildernature.pw.toml"
-hash = "9466b6e09a2342d0416dadab27582cc439dce7ed6efe28b8ea5a79564a27cd3e"
 metafile = true
 
 [[files]]
@@ -286,6 +266,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "6039fa77bfd0871c009092508bbaaed5f25947af425943fe3a2c8e6b32cd3102"
 metafile = true
 
 [[files]]
@@ -321,11 +306,6 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "4ab869d8784f4ac318b5c92fa3d9e65f997352b8b57f34b409ca6f171637f0fe"
-metafile = true
-
-[[files]]
-file = "mods/presence-footsteps.pw.toml"
-hash = "ed8bf57c00a377d998b1df2c2390573bdf34214e63e01fed7d813914cdac7993"
 metafile = true
 
 [[files]]
@@ -404,13 +384,13 @@ hash = "99b4a4fe0eafd761a298c00269ee2aa12c4eb3fa67a7a09a5ca6758882fd67f5"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "f26fb3886f4c53b3284264cacfebb4bfe68a189205363e8e406896c847c1e0ea"
+file = "mods/terrablender.pw.toml"
+hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
 metafile = true
 
 [[files]]
-file = "mods/tooltipfix.pw.toml"
-hash = "ee103bf45111c2cd7ea2d9b31087867dd4b0d07a4b7dad7b138a4ae506127b37"
+file = "mods/terralith.pw.toml"
+hash = "f26fb3886f4c53b3284264cacfebb4bfe68a189205363e8e406896c847c1e0ea"
 metafile = true
 
 [[files]]
@@ -441,6 +421,16 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "152c6732da180e958fb29f492bae2e468d4dfd423ce4d3d0d31ef31c2eec6c61"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-caves.pw.toml"
+hash = "c35cd5713162c90a988800682e017f90862027c3b2a98cd01de45a323d0ab6e6"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "532f07775974b695733981b2548859d3bc76c743781a5da5035d40fd6e485ab0"
 metafile = true
 
 [[files]]
@@ -476,6 +466,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "18dfe8ada0af83eb86d4b8ff8e202479b7c2ab1ee1f894d9bb07cda1744e8981"
+metafile = true
+
+[[files]]
+file = "mods/yungs-cave-biomes.pw.toml"
+hash = "1b458a12e9c076ae870dfaa64aaede89c7e6d18fe0c915d89b349a0af4250253"
 metafile = true
 
 [[files]]
