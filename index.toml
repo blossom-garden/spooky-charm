@@ -179,11 +179,6 @@ hash = "0fbcc8cf03336e6bed425e2115fc4ff1a3a05be5c655228b305e70380eb08b57"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-addon-apple-wood.pw.toml"
-hash = "19b33225ad7a4fc2dc1fdb8d7036786e485920811697631dc9ce636ded913584"
-metafile = true
-
-[[files]]
 file = "mods/lets-do-addon-compat.pw.toml"
 hash = "62b4b429775b5226241b728e76ca2875f6eb01c0dfdfb2eee9447191452bd0c1"
 metafile = true
