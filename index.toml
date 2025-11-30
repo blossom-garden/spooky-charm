@@ -289,6 +289,11 @@ hash = "acaf74883794f150634fbaf000e15098162610d2e1ef2d4029a64c7b0fe71e6e"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
+metafile = true
+
+[[files]]
 file = "mods/omnicut-better-wood-stone-cutter.pw.toml"
 hash = "fc81805cbce149290a3f5adbb8bca08806d864e6fb6efba7c6d9e02a5890fa7f"
 metafile = true
@@ -561,4 +566,19 @@ metafile = true
 [[files]]
 file = "resourcepacks/tras-fresh-player.pw.toml"
 hash = "a2281fdf9db2f273f97a5c17d0179e8e104372ba0539ff50145e9fba28c3dc69"
+metafile = true
+
+[[files]]
+file = "shaderpacks/2ks.pw.toml"
+hash = "378f5ce8846572048dbe2b0a37bfd535378f9bc03189aabe6475903eb82f70f4"
+metafile = true
+
+[[files]]
+file = "shaderpacks/cursed-fog.pw.toml"
+hash = "5de8cece7ab990713b002af8f64ce6f1a1f1e277d8f9699472ca40341b0f5c13"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "c37f620be5f4739b191c1a5eba8b90c3acdef3162b7c9b499391c16ed23f378a"
 metafile = true

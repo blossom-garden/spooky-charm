@@ -1,0 +1,13 @@
+name = "2KS"
+filename = "2KS 005.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8OuMHhPr/versions/aDWO8Ldd/2KS%20005.zip"
+hash-format = "sha512"
+hash = "8acb64ac32a6160a8c6b7d386e03a559279f22d5ad82f36df6880560f8b9e33ef846afaee2c72fdda9f7814cfa419cb600e25d23129501d06326214fc9a01fe1"
+
+[update]
+[update.modrinth]
+mod-id = "8OuMHhPr"
+version = "aDWO8Ldd"
