@@ -1,0 +1,8 @@
+name = "icon"
+filename = "icon.png"
+side = "client"
+
+[download]
+url = "https://github.com/blossom-garden/spooky-charm/blob/main/icon.png?raw=true"
+hash-format = "sha256"
+hash = "8d4d6cb29533676487f8130ec8df6615ee90bdb6b5121037562a93c8d487e284"

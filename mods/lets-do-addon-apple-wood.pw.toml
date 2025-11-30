@@ -1,0 +1,13 @@
+name = "[Let's Do Addon] Apple Wood"
+filename = "letsdo-addon-applewood-forge-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vIxesWnr/versions/MhIhTGfT/letsdo-addon-applewood-forge-1.0.1.jar"
+hash-format = "sha512"
+hash = "38b5da496d6920c307142a05ee0c235811236fdf437c51b3dd3ae5badd47df0897c98a4bb1edd77c4d72c10fbeae2b739083f3ae6cf12099745cdd275e94a7da"
+
+[update]
+[update.modrinth]
+mod-id = "vIxesWnr"
+version = "MhIhTGfT"

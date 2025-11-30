@@ -1,0 +1,13 @@
+name = "[Let's Do Addon] EMI Compat"
+filename = "1.8.1+1.20.1+forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/k6hi4lMv/versions/iltPVvOV/1.8.1%2B1.20.1%2Bforge.jar"
+hash-format = "sha512"
+hash = "dee27a91687582dd3fcbe06dcfae05e6a6cbd83dcb205a11b205db5587c5073771b0940517884402ce78fc98889ad775ca6aaa878b1ee5ed6bf2b558dcf6f46d"
+
+[update]
+[update.modrinth]
+mod-id = "k6hi4lMv"
+version = "iltPVvOV"

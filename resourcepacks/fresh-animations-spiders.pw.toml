@@ -1,0 +1,13 @@
+name = "Fresh Animations: Spiders"
+filename = "FA+Spiders-v2.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aqKnWmBf/versions/qyvLrJt8/FA%2BSpiders-v2.0.zip"
+hash-format = "sha512"
+hash = "d3a8981dd3afeeae68497fbdbbc288975515a3974dd5830bdc7aa404e56bfa43ca4dd7cb2c245f3c7e9d026a042fce40f424fd81dd9daa63005b0aef6431b92f"
+
+[update]
+[update.modrinth]
+mod-id = "aqKnWmBf"
+version = "qyvLrJt8"
